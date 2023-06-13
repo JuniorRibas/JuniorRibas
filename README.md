@@ -10,5 +10,5 @@ CTO New Analysis
 My job is to solve problems.
 
 Focused on web systems development, using the best technologies on the market such as:
-ReactJs, RactNative, NodeJs, AdonisJs.
+ReactJs, RactNative, NodeJs,NestJs, AdonisJs.
 Generate reports for your company with SQL, Jaspersoft, Report Builde
